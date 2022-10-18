@@ -1,3 +1,3 @@
 # Admin-Dashboard
 
-![ScreenShot](https://raw.github.com/{rissshhhabh}/{Admin-Dashboard}/{master}/{Screenshot (61).png})
+![ScreenShot](https://github.com/rissshhhabh/Admin-Dashboard/blob/master/Screenshot%20(61).png)
