@@ -1,18 +1,2 @@
 # Admin-Dashboard
-
-![ScreenShot](https://github.com/rissshhhabh/Admin-Dashboard/blob/master/Screenshot%20(61).png)
-
-
-
-
-
-
-.
-.
-.
-.
-..
-used material icon & google fonts:
-https://fonts.google.com/?icon.style=Outlined&icon.set=Material+Icons
-used Apex.js chart:
-https://apexcharts.com/docs/installation/
+![Screenshot (136)](https://user-images.githubusercontent.com/113924805/211131870-dde5ab66-50af-41f4-a1a3-7ab46554fa94.png)
